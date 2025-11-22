@@ -1,9 +1,9 @@
 # AWS-AI-ML-Scholar-Project2
-##Career Coach Assistant – Amazon Q Business
+## Career Coach Assistant – Amazon Q Business
 
 AI-powered tool that analyzes CVs and job descriptions to provide skill gap analysis, training recommendations, and training schedules.
 
-###📌 Project Overview
+### 📌 Project Overview
 
 This project is part of the AWS AI & ML Scholar – Business Intelligence Course.
 The application uses Amazon Q Business to automate and improve the efficiency of career coaching by generating insights from uploaded documents.
@@ -24,7 +24,7 @@ Keyword blocking & content guardrails
 
 App verification & sharing within the organization
 
-###🚀 Features Implemented
+### 🚀 Features Implemented
 ✔️ 1. Working Interface
 
 A fully functional UI with the following cards (Page 1–2):
@@ -107,7 +107,7 @@ App marked Verified by Admin
 
 App link generated
 
-###🏗️ Tech Stack
+### 🏗️ Tech Stack
 Component	Technology
 AI Engine	Amazon Q Business
 Storage	Amazon S3
